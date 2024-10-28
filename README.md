@@ -1,7 +1,9 @@
 **Real-Time Face Detection with OpenCV**
+
 This project captures live video from your webcam and detects faces in real-time using OpenCV’s Haar Cascade Classifier. It provides a hands-on demonstration of computer vision techniques for detecting human faces in dynamic environments.
 
 **Project Overview**
+
 The program uses OpenCV’s pre-trained Haar Cascade model to:
 
 Detect faces within each frame captured from a video stream

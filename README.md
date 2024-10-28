@@ -1,6 +1,6 @@
 # face_detection
-Real-Time Face Detection using OpenCV
-This project implements real-time face detection using OpenCV’s Haar Cascade Classifier. It captures video from a webcam, detects faces within the frames, and draws rectangles around detected faces.
+**Real-Time Face Detection using OpenCV
+This project implements real-time face detection using OpenCV’s Haar Cascade Classifier. It captures video from a webcam, detects faces within the frames, and draws rectangles around detected faces.**
 
 **Features**
 Real-time video capture: Continuously captures frames from the webcam.
@@ -30,11 +30,10 @@ Code Explanation
 **Displaying Output:** The video feed with highlighted faces is displayed in a window.
 **Example**
 When you run the script, it will display a window like this:
-
 -------------------------------
 | Face Detection (Live Video) |
 | Press 'q' to exit           |
 -------------------------------
 **Additional Notes**
-You can adjust parameters such as minNeighbors and minSize in detectMultiScale for better detection results.
-Press 'q' to exit the video feed.
+**You can adjust parameters such as minNeighbors and minSize in detectMultiScale for better detection results.
+Press 'q' to exit the video feed.**

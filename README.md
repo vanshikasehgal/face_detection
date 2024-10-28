@@ -12,6 +12,8 @@ Provide continuous, real-time feedback to the user
 
 
 **Prerequisites**
+
+
 Python 3.x: Ensure Python 3 is installed.
 OpenCV: Install via pip install opencv-python.
 Haar Cascade XML File: Download haarcascade_frontalface_default.xml and place it in the project directory.
@@ -31,6 +33,8 @@ pip install opencv-python
 
 
 **Running the Project**
+
+
 To start detecting faces:
 
 python face_detection.py
@@ -56,6 +60,8 @@ minSize: Specifies the minimum size for detected faces (default: (100, 100)).
 
 
 **Example Output**
+
+
 When you run the script, you’ll see a window similar to this:
 
 
@@ -67,6 +73,8 @@ Detected faces will be outlined with green rectangles.
 
 
 **Future Enhancements**
+
+
 Consider adding features such as:
 
 Eye and smile detection: Additional Haar cascades for eye and smile detection
@@ -75,7 +83,11 @@ Emotion detection: Detect emotions based on facial expressions (requires an addi
 
 
 **License**
+
+
 This project is licensed under the MIT License.
 
 **Acknowledgments**
+
+
 Special thanks to the OpenCV team for providing the Haar Cascade Classifiers.

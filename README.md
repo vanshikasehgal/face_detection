@@ -65,10 +65,9 @@ minSize: Specifies the minimum size for detected faces (default: (100, 100)).
 When you run the script, you’ll see a window similar to this:
 
 
---------------------------------
-|      Real-Time Face Detection      |
-|       (Press 'q' to exit)         |
---------------------------------
+      Real-Time Face Detection      
+       (Press 'q' to exit)         
+
 Detected faces will be outlined with green rectangles.
 
 
